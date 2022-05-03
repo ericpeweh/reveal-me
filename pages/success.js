@@ -50,7 +50,7 @@ const Success = () => {
 									navigator.clipboard.writeText(msgLink || "No link found!");
 								}}
 								text={isCopied ? "Link copied" : "Click to copy link"}
-								styles="font-poppins mt-4 font-semibold"
+								styles="font-poppins mt-4 font-semibold w-full"
 							/>
 						</div>
 					</div>

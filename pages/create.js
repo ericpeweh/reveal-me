@@ -139,7 +139,7 @@ const Create = () => {
 							)}
 							<Button
 								text="Create message"
-								styles="mt-8 py-3 tracking-widest sm:text-lg"
+								styles="mt-8 py-3 tracking-widest sm:text-lg w-full"
 								disabled={!isValid}
 								isSubmitting={isSubmitting}
 								onClick={submitHandler}
