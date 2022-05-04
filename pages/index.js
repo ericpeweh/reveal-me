@@ -22,8 +22,8 @@ const Home = () => {
 		<>
 			<Head>
 				<title>Reveal-Me | Homepage</title>
-				<meta name="description" content="Create and share your reveal message" />
-				<link rel="icon" href="/favicon.ico" />
+				<meta name="description" content="Secret message for you to reveal" />
+				<link rel="icon" href="/favicon.png" />
 			</Head>
 			<section className="relative flex flex-col w-full h-screen">
 				<HomeWriter />

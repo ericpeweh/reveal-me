@@ -74,8 +74,8 @@ const Create = () => {
 		<>
 			<Head>
 				<title>Reveal-Me | Create</title>
-				<meta name="description" content="Create and share your reveal message" />
-				<link rel="icon" href="/favicon.ico" />
+				<meta name="description" content="Secret message for you to reveal" />
+				<link rel="icon" href="/favicon.png" />
 			</Head>
 			<section className=" w-full h-screen overflow-y-scroll">
 				<div className="relative flex flex-row h-full mt-28">

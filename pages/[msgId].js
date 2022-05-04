@@ -53,8 +53,8 @@ const Message = () => {
 		<>
 			<Head>
 				<title>Reveal Message!</title>
-				<meta name="description" content="Create and share your reveal message" />
-				<link rel="icon" href="/favicon.ico" />
+				<meta name="description" content="Secret message for you to reveal" />
+				<link rel="icon" href="/favicon.png" />
 			</Head>
 			<Copyrights center />
 			<section className="flex justify-center items-center h-screen flex-col relative">
