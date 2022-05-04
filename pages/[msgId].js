@@ -43,7 +43,8 @@ const Message = () => {
 			new Typewriter("#writer", {
 				strings: [message.invisibleText],
 				autoStart: true,
-				pauseFor: Number.MAX_SAFE_INTEGER
+				pauseFor: Number.MAX_SAFE_INTEGER,
+				cursor: ""
 			});
 		}
 	}, [reveal, message]);
